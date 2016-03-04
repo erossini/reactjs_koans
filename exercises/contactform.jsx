@@ -85,7 +85,7 @@ class ContactForm extends React.Component {
                     {this.renderTextInput('firstName', 'First name')}
                     {this.renderTextInput('lastName', 'Last name')}
                     {this.renderTextArea('address', 'Address')}
-                    {this.renderSelect('state', 'state', states)}
+                    {this.renderSelect('state', 'Country', states)}
                     {this.renderRadioInlines('currentCustomer', 'Are you currently a ' + this.props.company + ' Customer?', { values: ['Yes', 'No'], defaultCheckedValue: 'No' })}
                 </div>
             </div>
