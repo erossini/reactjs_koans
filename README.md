@@ -46,34 +46,11 @@ You can run a webserver and see your changes live in your web browser:
 
 If you want to read more about React.js and modern JavaScript applications, check out our [React Kung Fu blog](http://reactkungfu.com/).
 
-### The book
-
-<img src="http://reactkungfu.com/assets/images/rbe-cover.png" alt="Rails meets React.js" width="33%" style="margin-right: 3em" align="right" />
-
-For people who finished Koans, we prepared something to go continue: the *React by example book*. In this book, we explain how to create common widgets like password-strength meter or credit card input.
-
-For the price of the ebook, you get:
-
-* Over 140 pages of React content. From fast introduction to React to example Todo app;
-* 11 practical real-world examples;
-* Repositories with code for most of the examples;
-
-It's an early version of the book. It means some wording in book may change and there will be more examples later. All updates for the book are free.
-
-You can use special **20% discount code: REACTKOANS**.
-[Grab your copy today](https://arkency.dpdcart.com/cart/add?product_id=113689&method_id=120078) or [download a free chapter](http://reactkungfu.com/assets/misc/sample.pdf)
-
 ## Additional resources
 
   * [React docs](https://facebook.github.io/react/docs/getting-started.html) - it's a great source of in-depth information about React.
   * [Why keys are important in React](http://blog.arkency.com/2014/10/react-dot-js-and-dynamic-children-why-the-keys-are-important/) - great reading explaining the reason for React's keys.
   * [Reactiflux](http://www.reactiflux.com/). User group on Slack. You can meet a lot of people using React there. There's a channel for beginners `needhelp`.
 
-
-## About
-
-<img src="http://arkency.com/images/arkency.png" alt="Arkency" width="14%" align="left" />
-
-React Koans is funded and maintained by Arkency. Check out our other [open-source projects](https://github.com/arkency).
-
-You can also [hire us](http://arkency.com) or [read our blog](http://blog.arkency.com).
+### What is it changed?
+In this version you finda new file under execises called "ContactForm".
