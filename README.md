@@ -52,5 +52,5 @@ If you want to read more about React.js and modern JavaScript applications, chec
   * [Why keys are important in React](http://blog.arkency.com/2014/10/react-dot-js-and-dynamic-children-why-the-keys-are-important/) - great reading explaining the reason for React's keys.
   * [Reactiflux](http://www.reactiflux.com/). User group on Slack. You can meet a lot of people using React there. There's a channel for beginners `needhelp`.
 
-### What is it changed?
+# What is it changed?
 In this version you finda new file under execises called "ContactForm".
