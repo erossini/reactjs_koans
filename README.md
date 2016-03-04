@@ -53,4 +53,4 @@ If you want to read more about React.js and modern JavaScript applications, chec
   * [Reactiflux](http://www.reactiflux.com/). User group on Slack. You can meet a lot of people using React there. There's a channel for beginners `needhelp`.
 
 # What is it changed?
-In this version you finda new file under execises called "ContactForm".
+In this version you find a new file under execises called "ContactForm".
