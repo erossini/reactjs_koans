@@ -1,3 +1,4 @@
+// react is required
 var React = require("react");
 
 // define an array of counties
@@ -17,7 +18,7 @@ class ContactForm extends React.Component {
             question: true,
             errors: []
         };
-
+        
         // defnine a function to bind the form
         // if you don't define here a function you can't access to field in the form
         // in general when you want to fill the form, you must declare here your function
