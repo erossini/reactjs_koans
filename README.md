@@ -4,6 +4,9 @@ If you want to learn React.js you came to the right place. We prepared a set of 
 
 The Koans are a set of tasks to complete. Prepared tests checks if they are done correctly.
 
+# What is it changed?
+In this version you find a new file under execises called "ContactForm".
+
 ## Installation
 
 Make sure you have Node.js and Python 2 installed.
@@ -51,6 +54,3 @@ If you want to read more about React.js and modern JavaScript applications, chec
   * [React docs](https://facebook.github.io/react/docs/getting-started.html) - it's a great source of in-depth information about React.
   * [Why keys are important in React](http://blog.arkency.com/2014/10/react-dot-js-and-dynamic-children-why-the-keys-are-important/) - great reading explaining the reason for React's keys.
   * [Reactiflux](http://www.reactiflux.com/). User group on Slack. You can meet a lot of people using React there. There's a channel for beginners `needhelp`.
-
-# What is it changed?
-In this version you find a new file under execises called "ContactForm".
