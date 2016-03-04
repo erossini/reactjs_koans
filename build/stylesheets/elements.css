@@ -50,3 +50,7 @@ button:hover {
 button[disabled] {
   opacity: 0.5;
 }
+
+.form-group.has-error {
+   background-color: #ff6a00;
+}

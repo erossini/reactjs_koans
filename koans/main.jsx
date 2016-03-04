@@ -7,9 +7,10 @@ import GroceryListPart1 from './05-Challenge-GroceryList-part-1.jsx';
 import GroceryListPart2 from './05-Challenge-GroceryList-part-2.jsx';
 import GroceryListPart3 from './05-Challenge-GroceryList-part-3.jsx';
 import GroceryListPart4 from './05-Challenge-GroceryList-part-4.jsx';
+import ContactForm 	  	from './contactform.jsx';
 import renderName 	  	from './06-RenderComponent.jsx';
 
-React.render(<HelloWorld/>,    	  document.getElementById("tab-content1"));
+React.render(<ContactForm/>,    	document.getElementById("tab-content1"));
 React.render(<PartiesList/>,   	  document.getElementById("tab-content2"));
 React.render(<WhatsYourName/>, 	  document.getElementById("tab-content3"));
 React.render(<GroceryListPart1/>, document.getElementById("tab-content4"));
